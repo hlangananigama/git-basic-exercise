@@ -1,0 +1,16 @@
+  363  git checkout milkshake-flavours
+  364  git branch
+  365  git checkout main
+  366  git checkout master
+  367  git branch milkshake-flavours
+  368  git checkout milkshake-flavours
+  369  git checkout milkshake-flavours
+  370  nano milkshakes.md
+  371  git status
+  372  git add milkshakes.md
+  373  git commit -m "added initial flavours"
+  374  git log
+  375  git checkout master
+  376  git branch -b history
+  377  git checkout -b history
+  378  git log
